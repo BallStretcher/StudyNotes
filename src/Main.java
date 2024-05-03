@@ -25,6 +25,7 @@ public class Main {
         Collections.sort(list,compar);
         //или в сразу в сорте
         Collections.sort(list,(obj1,obj2)->obj1.length()-obj2.length());
+        //ну вроде всё с этим
 
 
 
