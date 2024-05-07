@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study notes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToolInterface.java" afterDir="false" />
+    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1">
+      <change afterPath="$PROJECT_DIR$/src/Funk_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToolInterface.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,12 +35,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +50,32 @@
       <option name="presentableId" value="Default" />
       <updated>1714741248332</updated>
     </task>
+    <task id="LOCAL-00001" summary="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1">
+      <created>1714743583071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714743583071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1">
+      <created>1714743736632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714743736632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1">
+      <created>1714743818859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714743818859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1" />
   </component>
 </project>

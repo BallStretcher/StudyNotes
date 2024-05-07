@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class Main {
+public class Lambda {
     public static void main(String[] args) {
         //лямбда-выражения
         //полезны для работы и интерфейсами, у которых ТОЛЬКО ОДИН метод(есть варик обойти это, но не сейчас)
