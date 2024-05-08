@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="19.3">
-      <change afterPath="$PROJECT_DIR$/src/WorkWithPotok.java" afterDir="false" />
+    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="19.4, половина">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WorkWithPotok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorkWithPotok.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715106664733</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="19.4, половина">
+      <created>1715114153436</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715114153436</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекция 19.1" />
     <MESSAGE value="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекции:&#10;19.1&#10;19.2" />
     <MESSAGE value="19.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="19.3" />
+    <MESSAGE value="19.4, половина" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.4, половина" />
   </component>
 </project>
