@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="19.4, половина">
+    <list default="true" id="3a4560ac-29bc-410e-b7ee-1af98047dd60" name="Changes" comment="19.7 начало">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WorkWithPotok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WorkWithPotok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715114153436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="19.4&#10;19.5&#10;19.6">
+      <created>1715176660400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715176660400</updated>
+    </task>
+    <task id="LOCAL-00008" summary="19.7 начало">
+      <created>1715178871373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715178871373</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +112,8 @@
     <MESSAGE value="У меня закончилась тетрадь А4, поэтому я буду сохранять всё в гитхаб.&#10;Лекции:&#10;19.1&#10;19.2" />
     <MESSAGE value="19.3" />
     <MESSAGE value="19.4, половина" />
-    <option name="LAST_COMMIT_MESSAGE" value="19.4, половина" />
+    <MESSAGE value="19.4&#10;19.5&#10;19.6" />
+    <MESSAGE value="19.7 начало" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.7 начало" />
   </component>
 </project>
